@@ -4,3 +4,7 @@ Scaffolding our Project
 commit-1: Start of Project
 commit-2: Restrucute our Project and add basic strucutre
 =================================================================
+Adding Components
+=================================================================
+commit-3: Adding Directory Page with Directory Component and CategoryItem Component
+=================================================================
