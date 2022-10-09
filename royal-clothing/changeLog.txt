@@ -22,4 +22,5 @@ commit-6: Adding Google Authentication and Firebase for sign in
 commit-7: Connecting to Firebase Database
 commit-8: Connecting to google using redirect method and removing it. (only did for learning)
 commit-9: Added Sign-up form 
+commit-10: Linked Authentication to Signin and Signup forms
 =================================================================
