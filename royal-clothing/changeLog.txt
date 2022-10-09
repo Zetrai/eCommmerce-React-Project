@@ -19,4 +19,5 @@ commit-5: Adding routing to the project
 Adding Google Auth and Firebase
 -----------------------------------------------------------------
 commit-6: Adding Google Authentication and Firebase for sign in 
+commit-7: Connecting to Firebase Database
 =================================================================
