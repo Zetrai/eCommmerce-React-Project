@@ -24,4 +24,5 @@ commit-8: Connecting to google using redirect method and removing it. (only did 
 commit-9: Added Sign-up form 
 commit-10: Linked Authentication to Signin and Signup forms and a small file name bug fix
 commit-11: Configured react context (acts like a global storage) for signing in and signing out
+commit-12: Configuring observable listner for firebase
 =================================================================
