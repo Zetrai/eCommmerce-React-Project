@@ -18,7 +18,6 @@ export const UserProvider = ({ children }) => {
   useEffect(() => {
     // Trigger the observablr listner in firebase utils
     const unsubscribe = onAuthStateChangedListner((user) => {
-      console.log(user);
       if (user) {
         createUserDocumentFromAuth(user);
       }
