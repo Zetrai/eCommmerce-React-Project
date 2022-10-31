@@ -27,4 +27,5 @@ commit-11: Configured react context (acts like a global storage) for signing in 
 commit-12: Configuring observable listner for firebase
 commit-13: Adding Shop page and Shopping Cart and its dropdown
 commit-14: Adding Cart Items and the logic
+commit-15: Adding Checkout Page
 =================================================================
