@@ -31,5 +31,6 @@ commit-15: Adding Checkout Page
 commit-16: Adding data to firebase and retrieving it
 commit-17: Fixing the shared scss issue and installing styled-component npm module
 commit-18: Implementing Styled-Component for navigation file
-commit-19: Implementing Styled-Component for others 
+commit-19: Implementing Styled-Component for others
+commit-20: Adding Redirects file for netflify
 =================================================================
