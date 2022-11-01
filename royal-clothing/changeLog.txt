@@ -16,7 +16,7 @@ Adding Routing
 commit-5: Adding routing to the project
 =================================================================
 
-Adding Google Auth and Firebase
+Adding Google Auth and Firebase Database for storing and retrieving data
 -----------------------------------------------------------------
 commit-6: Adding Google Authentication and Firebase for sign in 
 commit-7: Connecting to Firebase Database
@@ -29,8 +29,28 @@ commit-13: Adding Shop page and Shopping Cart and its dropdown
 commit-14: Adding Cart Items and the logic
 commit-15: Adding Checkout Page
 commit-16: Adding data to firebase and retrieving it
+----------------------------------------------------------------
+
+Using Styled-Components instead of scss
+----------------------------------------------------------------
 commit-17: Fixing the shared scss issue and installing styled-component npm module
 commit-18: Implementing Styled-Component for navigation file
 commit-19: Implementing Styled-Component for others
+-----------------------------------------------------------------
+
+Deploying via netflify
+-----------------------------------------------------------------
 commit-20: Adding Redirects file for netflify
+-----------------------------------------------------------------
+
+*Base Project is done here*
+=================================================================
+
+Using Reducers (Will replace Context)
+-----------------------------------------------------------------
+commit-21: Replacing Context with reducers
+commit-22:
+commit-23:
+-----------------------------------------------------------------
+
 =================================================================
