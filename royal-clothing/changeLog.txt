@@ -46,9 +46,9 @@ commit-20: Adding Redirects file for netflify
 *Base Project is done here*
 =================================================================
 
-Using Reducers (Will replace Context)
+Using Reducers and Redux (Will replace Context)
 -----------------------------------------------------------------
-commit-21: Replacing Context with reducers
+commit-21: USing reducers instead of useState and useEffect
 commit-22:
 commit-23:
 -----------------------------------------------------------------
